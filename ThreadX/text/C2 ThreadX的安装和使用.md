@@ -12,3 +12,14 @@ ThreadX在目标上需要2 KB到20 KB的只读内存（ROM）。 ThreadX系统�
 
 # 产品分销
 
+分发磁盘的确切内容取决于目标处理器，开发工具和购买的ThreadX软件包。但是，以下是大多数产品发行版中共有的几个重要文件的列表：
+
+* ThreadX_Express_Startup.pdf——该PDF提供了一个简单的四步过程，以使ThreadX在特定的目标处理器/主板和特定的开发工具上运行。
+* readme_threadx.txt——文本文件，其中包含有关ThreadX端口的特定信息，包括有关目标处理器和开发工具的信息。
+* tx_api.h——C头文件，包含所有系统等式，数据结构和服务原型。
+* tx_port.h——C头文件，包含所有开发工具和特定于目标的数据定义和结构。
+* demo_threadx.c——包含一个小型演示应用程序的C文件。
+* tx.a (or tx.lib)——随标准软件包一起分发的ThreadX C库的二进制版本。
+
+# ThreadX安装
+
