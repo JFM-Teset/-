@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-6
+Added Pin To Net: NetName=GND Pin=USB1-7
+Added Pin To Net: NetName=GND Pin=USB1-8
+Added Pin To Net: NetName=GND Pin=USB1-9
+Added Room: Name=DAPLink

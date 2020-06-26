@@ -1,0 +1,28 @@
+Protel Design System Design Rule Check
+PCB File : D:\PCB_Design\DAPLink_Low\DAPLink.PcbDoc
+Date     : 2020/6/7
+Time     : 18:44:38
+
+Processing Rule : Clearance Constraint (Gap=8mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Clearance Constraint: (5.161mil < 6mil) Between Pad USB1-(5170.94mil,6113.626mil) on Multi-Layer And Pad USB1-5(5203.23mil,6138.82mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 1
+Waived Violations : 0
+Time Elapsed        : 00:00:00

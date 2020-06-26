@@ -1,0 +1,194 @@
+Added Component: Designator=C1(1206_C)
+Added Component: Designator=C2(1206_C)
+Added Component: Designator=C3(1206_C)
+Added Component: Designator=C4(1206_C)
+Added Component: Designator=C5(1206_C)
+Added Component: Designator=C6(1206_C)
+Added Component: Designator=C7(1206_C)
+Added Component: Designator=C13(1206_C)
+Added Component: Designator=C14(1206_C)
+Added Component: Designator=C55(1206_C)
+Added Component: Designator=CON2(HDR1X5)
+Added Component: Designator=J1(HDR1X5)
+Added Component: Designator=J2(HDR1X5)
+Added Component: Designator=LED1(0603_LED_S1)
+Added Component: Designator=LED2(0603_LED_S1)
+Added Component: Designator=LED3(0603_LED_S1)
+Added Component: Designator=PPA5(HDR1X3)
+Added Component: Designator=R1(1206_R)
+Added Component: Designator=R2(1206_R)
+Added Component: Designator=R3(1206_R)
+Added Component: Designator=R4(1206_R)
+Added Component: Designator=R5(1206_R)
+Added Component: Designator=R6(1206_R)
+Added Component: Designator=R7(1206_R)
+Added Component: Designator=R8(1206_R)
+Added Component: Designator=RBOOT0(1206_R)
+Added Component: Designator=RBOOT1(1206_R)
+Added Component: Designator=RLED1(1206_R)
+Added Component: Designator=RLED2(1206_R)
+Added Component: Designator=RLED3(1206_R)
+Added Component: Designator=RPC13(1206_R)
+Added Component: Designator=SW1(HDR1X2)
+Added Component: Designator=U1(LQFP-48_7x7x05P)
+Added Component: Designator=USB1(MICRO-USB-SMD_U254-051N-4BH806)
+Added Component: Designator=VR1(SOT-223)
+Added Component: Designator=Y1(SMD-5032_2P)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC33 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC33 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=PIN_5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=PIN_6 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=IF_NRESET Pin=C7-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=TGT_NRESET Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=VCC33 Pin=CON2-1
+Added Pin To Net: NetName=IF_SWDIO Pin=CON2-2
+Added Pin To Net: NetName=IF_SWCLK Pin=CON2-3
+Added Pin To Net: NetName=GND Pin=CON2-4
+Added Pin To Net: NetName=IF_NRESET Pin=CON2-5
+Added Pin To Net: NetName=TGT_RX Pin=J1-1
+Added Pin To Net: NetName=TGT_TX Pin=J1-2
+Added Pin To Net: NetName=TGT_NRESET Pin=J1-3
+Added Pin To Net: NetName=TDO Pin=J1-4
+Added Pin To Net: NetName=TDI Pin=J1-5
+Added Pin To Net: NetName=VCC33 Pin=J2-1
+Added Pin To Net: NetName=TGT_SWCLK Pin=J2-2
+Added Pin To Net: NetName=TGT_SWDIO Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=TGT_SWO Pin=J2-5
+Added Pin To Net: NetName=LED_PWR_RED Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=VCC33 Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K
+Added Pin To Net: NetName=VCC33 Pin=LED3-A
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-K
+Added Pin To Net: NetName=TGT_SWCLK Pin=PPA5-1
+Added Pin To Net: NetName=PA5 Pin=PPA5-2
+Added Pin To Net: NetName=TDO Pin=PPA5-3
+Added Pin To Net: NetName=TGT_NRESET Pin=R1-1
+Added Pin To Net: NetName=VCC33 Pin=R1-2
+Added Pin To Net: NetName=IF_NRESET Pin=R2-1
+Added Pin To Net: NetName=VCC33 Pin=R2-2
+Added Pin To Net: NetName=PA0 Pin=R3-1
+Added Pin To Net: NetName=VCC33 Pin=R3-2
+Added Pin To Net: NetName=TGT_USB_D_P Pin=R4-1
+Added Pin To Net: NetName=NetC14_2 Pin=R4-2
+Added Pin To Net: NetName=VCC33 Pin=R5-1
+Added Pin To Net: NetName=NetC14_2 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=TGT_SWDIO Pin=R6-2
+Added Pin To Net: NetName=TGT_USB_D_N Pin=R7-1
+Added Pin To Net: NetName=NetC13_1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=PA0 Pin=R8-2
+Added Pin To Net: NetName=NetRBOOT0_1 Pin=RBOOT0-1
+Added Pin To Net: NetName=GND Pin=RBOOT0-2
+Added Pin To Net: NetName=BOOT1 Pin=RBOOT1-1
+Added Pin To Net: NetName=GND Pin=RBOOT1-2
+Added Pin To Net: NetName=NetLED1_K Pin=RLED1-1
+Added Pin To Net: NetName=GND Pin=RLED1-2
+Added Pin To Net: NetName=NetLED2_K Pin=RLED2-1
+Added Pin To Net: NetName=LED_COM_GRN Pin=RLED2-2
+Added Pin To Net: NetName=NetLED3_K Pin=RLED3-1
+Added Pin To Net: NetName=LED_DAP_BULE Pin=RLED3-2
+Added Pin To Net: NetName=PC13 Pin=RPC13-1
+Added Pin To Net: NetName=GND Pin=RPC13-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=TGT_NRESET Pin=SW1-2
+Added Pin To Net: NetName=VCC33 Pin=U1-1
+Added Pin To Net: NetName=PC13 Pin=U1-2
+Added Pin To Net: NetName=PIN_5 Pin=U1-5
+Added Pin To Net: NetName=PIN_6 Pin=U1-6
+Added Pin To Net: NetName=IF_NRESET Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=VCC33 Pin=U1-9
+Added Pin To Net: NetName=PA0 Pin=U1-10
+Added Pin To Net: NetName=TGT_RX Pin=U1-12
+Added Pin To Net: NetName=TGT_TX Pin=U1-13
+Added Pin To Net: NetName=PA5 Pin=U1-15
+Added Pin To Net: NetName=TDI Pin=U1-17
+Added Pin To Net: NetName=TGT_NRESET Pin=U1-18
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=VCC33 Pin=U1-24
+Added Pin To Net: NetName=NetR6_1 Pin=U1-25
+Added Pin To Net: NetName=TGT_SWCLK Pin=U1-26
+Added Pin To Net: NetName=TGT_SWDIO Pin=U1-27
+Added Pin To Net: NetName=LED_PWR_RED Pin=U1-30
+Added Pin To Net: NetName=TGT_SWO Pin=U1-31
+Added Pin To Net: NetName=NetC13_1 Pin=U1-32
+Added Pin To Net: NetName=NetC14_2 Pin=U1-33
+Added Pin To Net: NetName=IF_SWDIO Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=VCC33 Pin=U1-36
+Added Pin To Net: NetName=IF_SWCLK Pin=U1-37
+Added Pin To Net: NetName=LED_COM_GRN Pin=U1-41
+Added Pin To Net: NetName=LED_DAP_BULE Pin=U1-42
+Added Pin To Net: NetName=NetRBOOT0_1 Pin=U1-44
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=VCC33 Pin=U1-48
+Added Pin To Net: NetName=NetC1_1 Pin=USB1-1
+Added Pin To Net: NetName=TGT_USB_D_N Pin=USB1-2
+Added Pin To Net: NetName=TGT_USB_D_P Pin=USB1-3
+Added Pin To Net: NetName=NetUSB1_4 Pin=USB1-4
+Added Pin To Net: NetName=NetUSB1_4 Pin=USB1-5
+Added Pin To Net: NetName=NetUSB1_4 Pin=USB1-6
+Added Pin To Net: NetName=NetUSB1_4 Pin=USB1-7
+Added Pin To Net: NetName=NetUSB1_4 Pin=USB1-8
+Added Pin To Net: NetName=NetUSB1_4 Pin=USB1-9
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=VCC33 Pin=VR1-2
+Added Pin To Net: NetName=VCC33 Pin=VR1-2
+Added Pin To Net: NetName=NetC1_1 Pin=VR1-3
+Added Pin To Net: NetName=PIN_6 Pin=Y1-1
+Added Pin To Net: NetName=PIN_5 Pin=Y1-2
+Added Member To Class: ClassName=DAPLink Member=Component C1 10uF (475) 10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component C2 100nF (475) 10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component C3 10uF (475) 10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component C4 100nF (475) 10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component C5 20pF 
+Added Member To Class: ClassName=DAPLink Member=Component C6 20pF 
+Added Member To Class: ClassName=DAPLink Member=Component C7 100nF (475) 10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component C13 18pF 10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component C14 18pF 10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component C55 100nF  10% 50V
+Added Member To Class: ClassName=DAPLink Member=Component CON2 Header 5
+Added Member To Class: ClassName=DAPLink Member=Component J1 Header 5
+Added Member To Class: ClassName=DAPLink Member=Component J2 Header 5
+Added Member To Class: ClassName=DAPLink Member=Component LED1 綻腑 0603
+Added Member To Class: ClassName=DAPLink Member=Component LED2 蟯腑 0603
+Added Member To Class: ClassName=DAPLink Member=Component LED3 懦腑 0603
+Added Member To Class: ClassName=DAPLink Member=Component PPA5 Header 3
+Added Member To Class: ClassName=DAPLink Member=Component R1 100K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component R2 100K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component R3 4.7K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component R4 22次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component R5 10K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component R6 100次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component R7 22次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component R8 4.7K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component RBOOT0 100K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component RBOOT1 100K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component RLED1 10K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component RLED2 10K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component RLED3 10K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component RPC13 10K次  ㊣1%
+Added Member To Class: ClassName=DAPLink Member=Component SW1 Header 2
+Added Member To Class: ClassName=DAPLink Member=Component U1 STM32F103CBT6
+Added Member To Class: ClassName=DAPLink Member=Component USB1 U254-051N-4BH806
+Added Member To Class: ClassName=DAPLink Member=Component VR1 AMS1117-3.3
+Added Member To Class: ClassName=DAPLink Member=Component Y1 8MHz 20pF
+Added Room: Name=DAPLink

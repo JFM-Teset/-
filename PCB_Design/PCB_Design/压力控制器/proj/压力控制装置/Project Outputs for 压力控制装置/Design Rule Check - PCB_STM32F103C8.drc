@@ -1,0 +1,28 @@
+Protel Design System Design Rule Check
+PCB File : D:\ThreadX\StudyNote\PCB_Design\PCB_Design\压力控制器\proj\压力控制装置\PCB_STM32F103C8.PcbDoc
+Date     : 2020/6/26
+Time     : 22:08:38
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Clearance Constraint: (5.161mil < 6mil) Between Pad MicroUSB-(5163.94mil,7114.626mil) on Multi-Layer And Pad MicroUSB-5(5196.23mil,7139.82mil) on Top Layer 
+   Violation between Clearance Constraint: (3.008mil < 6mil) Between Track (5684mil,7790mil)(5684mil,8302mil) on Bottom Layer And Via (5715mil,7984mil) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND_4096 Between Via (7260mil,8137mil) from Top Layer to Bottom Layer And Via (7306mil,8193mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND_4096 Between Via (7019mil,8117mil) from Top Layer to Bottom Layer And Via (7260mil,8137mil) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Waived Violations : 0
+Time Elapsed        : 00:00:01
